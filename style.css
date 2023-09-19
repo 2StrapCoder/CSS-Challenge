@@ -104,7 +104,11 @@ nav li a {
     width: 70%;
 }   
 
-#contactMe{
-    
+#contactMe p a{
+   font-size: 40px;
+   font-weight: bold;
+   color: #18222c;
+   margin-top: 30px;
+   list-style-type: none; 
 }
 
